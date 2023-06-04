@@ -1,6 +1,13 @@
-# **Tailwindcss template for building Figma plugins**
+# **🔌 Tailwindcss template for building Figma plugins**
 
 This is the template that I wish I had when I first started building out [Bricks](https://github.com/bricks-cloud/bricks).
+
+<p align="center">
+   <a href='http://makeapullrequest.com'><img alt='PRs Welcome' src='https://img.shields.io/badge/PRs-welcome-43AF11.svg?style=shields'/></a>
+   <a href="https://github.com/bricks-cloud/figma-plugin-tailwindcss-template/stargazers"><img src="https://img.shields.io/github/stars/bricks-cloud/figma-plugin-tailwindcss-template?color=e4b442" alt="Github Stars"></a>
+   <a href="https://github.com/bricks-cloud/figma-plugin-tailwindcss-template/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-red" alt="License"></a>
+</p>
+
 
 #### **Technologies Used**:
 1. Typescript
