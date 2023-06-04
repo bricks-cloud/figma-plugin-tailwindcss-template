@@ -1,5 +1,5 @@
 {
-    "name": "my-plugin",
+    "name": "figma-plugin-tailwindcss-template",
     "version": "1.0.0",
     "description": "My Figma plugin built with Typescript, React and TailwindCSS.",
     "license": "MIT",

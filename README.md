@@ -1,4 +1,4 @@
-# **React Tailwindcss template for building Figma plugins**
+# **Tailwindcss template for building Figma plugins**
 
 This is the template that I wish I had when I first started building out [Bricks](https://github.com/bricks-cloud/bricks).
 
